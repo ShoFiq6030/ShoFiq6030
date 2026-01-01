@@ -1,9 +1,4 @@
 
-### 💻 Web Developer
-
-<p align="center">
-  <img src="https://github.com/ShoFiq6030.png" width="110" style="border-radius:50%" alt="Md Shofikul Islam"/>
-</p>
 
 <h1 align="center">Hi, I'm Md Shofikul Islam 👋</h1>
 <p align="center"><strong>Frontend & Full-Stack Developer • Network Expert</strong></p>
