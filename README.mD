@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Md Shofikul Islam
 
 ### 💻 Web Developer
 
@@ -16,11 +15,11 @@
   <img src="https://img.shields.io/badge/Location-Tongi,%20Gazipur-blue?style=flat-square&logo=map" alt="location"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ShoFiq6030" target="_blank">
     <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=80" alt="Md Shofikul Islam - Web Developer"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&width=600&lines=Hello!+I'm+Md+Shofikul+Islam;Frontend+Developer+%7C+React+%7C+Next.js;Building+scalable+web+apps+%E2%9C%85" alt="typing"/>
@@ -84,8 +83,7 @@ Hi — I'm **Md Shofikul Islam**, a Web Developer and also a Network Expert from
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShoFiq6030&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoFiq6030&layout=compact&theme=dark)
+![Contributions](https://ghchart.rshah.org/ShoFiq6030)
 
 ---
 
@@ -96,5 +94,3 @@ I'm open to **freelance and full-time opportunities** — feel free to reach out
 ---
 
 ⭐ **Thank you for visiting my GitHub profile!**
-
-> Tip: Update the LinkedIn/Twitter links with your real profiles and add live demo links/screenshots for your pinned projects to make the profile stand out.
